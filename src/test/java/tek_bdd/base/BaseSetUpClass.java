@@ -74,6 +74,7 @@ public class BaseSetUpClass {
             LOGGER.info("Quitting the Browser");
             driver.quit();
         }
+
     }
 
     public WebDriver getDriver() {

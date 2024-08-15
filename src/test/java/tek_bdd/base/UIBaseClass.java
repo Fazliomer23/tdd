@@ -15,6 +15,7 @@ public class UIBaseClass extends SeleniumUtility {
         setupBrowser();
     }
 
+
     @AfterMethod
     public void testCleanup() {
         LOGGER.info("running after each test and quite browser");
