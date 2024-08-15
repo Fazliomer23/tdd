@@ -1,6 +1,8 @@
 package tek_bdd.test;
 
-import org.junit.Assert;
+
+import org.openqa.selenium.By;
+import org.testng.Assert;
 import org.testng.annotations.Test;
 import tek_bdd.base.UIBaseClass;
 
